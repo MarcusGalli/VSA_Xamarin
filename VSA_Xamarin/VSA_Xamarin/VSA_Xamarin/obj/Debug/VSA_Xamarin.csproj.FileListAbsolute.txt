@@ -1,0 +1,12 @@
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\VSA_Xamarin.dll
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\VSA_Xamarin.pdb
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\Xamarin.Forms.Core.dll
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\Xamarin.Forms.Platform.dll
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\Xamarin.Forms.Core.xml
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\obj\Debug\VSA_Xamarin.csprojResolveAssemblyReference.cache
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\obj\Debug\VSA_Xamarin.dll
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\obj\Debug\VSA_Xamarin.pdb
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\obj\Debug\VSA_Xamarin.dll.mdb
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\bin\Debug\VSA_Xamarin.dll.mdb

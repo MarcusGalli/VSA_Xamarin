@@ -1,0 +1,2 @@
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin.Windows\VSA_Xamarin.Windows.csproj;neutral
+C:\_Marcus\_Estudo 2.0\Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin\VSA_Xamarin.csproj;neutral
